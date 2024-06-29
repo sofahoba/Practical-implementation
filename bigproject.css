@@ -1,0 +1,89 @@
+#titlehead{
+    color: red;
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+/* ----------------------start of form design-------------------- */
+#firsthead{
+    color: blue;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+#formparagraph{
+    font-size: 25px;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+/* ----------------------end of form design-------------------- */
+
+
+
+
+
+
+
+
+/* ----------------------start of text box design-------------------- */
+#secondhead{
+    color:blue;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+#divparagraph{
+    text-transform: capitalize;
+    font-size: 25px;
+    font-weight: bolder;
+}
+#divdesign{
+    color: rgb(233, 233, 233);
+    background-color: red;
+    border: 3px solid black;
+    width: 400px;
+    padding: 15px;
+    font-size: 21px;
+}
+/* ----------------------end of text box design-------------------- */
+
+
+
+
+
+
+
+
+/* ----------------------start of table design-------------------- */
+#thirdheader{
+color: blue;
+text-transform: capitalize;
+text-decoration: underline;
+font-style: italic;
+}
+#tableparagraph{
+    text-transform: capitalize;
+    font-size: 25px;
+    font-weight: bolder; 
+}
+table ,td,th{
+    border: 3px solid black;
+    border-collapse: collapse;
+    background-color: orange;
+    padding: 25px;
+    font-size: x-large;
+    margin-left: 500px;
+}
+#tablecaption{
+    color: red;
+    font-size: larger;
+}
+/* ----------------------end of table design-------------------- */
